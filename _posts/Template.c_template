@@ -1,9 +1,10 @@
 ---
+layout: post
 title: Welcome at the wiki
 date: 2025-03-12 21:11:00 +0100
 categories: [General, Welcome]
 tags: []
-author: 0000
+authors: [0000]
 pin: true
 toc: false
 comments: true
@@ -11,4 +12,5 @@ image: /assets/img/favicons/web-app-manifest-512x512.png
 #media_subpath: /not/needed/
 #authors: [0000, 0001]
 #description: use content
+permalink: /worldsystem/:title/
 ---
