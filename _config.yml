@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: Cycodly # the main title
 
-tagline: Development wiki # it will display as the subtitle
+tagline: Documentation and more # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Get to know how to use the Minecraft WorldSystem plugin and other software
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Cycodly Management
+  name: Cycodly Development
   email: # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicon.svg
+avatar: /assets/img/favicons/web-app-manifest-192x192.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
